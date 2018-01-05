@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rails 项目集成 Spine.js
-category: rails
+title: 第一个笔记模板
+category: 随手笔记
 published: true
 ---
 
