@@ -2,7 +2,7 @@
 layout: post
 title: Rails 项目集成 Spine.js
 category: rails
-published: false
+published: true
 ---
 
 [ShopQi](https://www.shopqi.com) 的后台管理是使用 Backgone.js 进行开发的，Backbone 最初的版本在 controller 和 view 之间的关系设计不大好，基本上 controller 的作用被弱化了。
